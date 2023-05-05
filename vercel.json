@@ -1,8 +1,5 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "headers": [],
-    "engines": {
-    "vercel": "^28.18.5"
-  }
+  "headers": []
 }
